@@ -1,0 +1,21 @@
+.menu__page {
+  min-height: 100vh;
+  color: #000;
+
+  .menu__head {
+    .menu__title {
+      color: #fff;
+    }
+  }
+
+  .menu__img {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  .menu__category,
+  .menu__price {
+    color: #fff;
+  }
+}
